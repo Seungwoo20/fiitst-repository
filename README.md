@@ -1,1 +1,2 @@
 # fitst-repository
+## git config
